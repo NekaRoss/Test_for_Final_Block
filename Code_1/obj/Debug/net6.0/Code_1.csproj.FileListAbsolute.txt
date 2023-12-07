@@ -1,0 +1,15 @@
+D:\Itog.osn\Code_1\bin\Debug\net6.0\Code_1.exe
+D:\Itog.osn\Code_1\bin\Debug\net6.0\Code_1.deps.json
+D:\Itog.osn\Code_1\bin\Debug\net6.0\Code_1.runtimeconfig.json
+D:\Itog.osn\Code_1\bin\Debug\net6.0\Code_1.dll
+D:\Itog.osn\Code_1\bin\Debug\net6.0\Code_1.pdb
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.csproj.AssemblyReference.cache
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.AssemblyInfoInputs.cache
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.AssemblyInfo.cs
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.csproj.CoreCompileInputs.cache
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.dll
+D:\Itog.osn\Code_1\obj\Debug\net6.0\refint\Code_1.dll
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.pdb
+D:\Itog.osn\Code_1\obj\Debug\net6.0\Code_1.genruntimeconfig.cache
+D:\Itog.osn\Code_1\obj\Debug\net6.0\ref\Code_1.dll
