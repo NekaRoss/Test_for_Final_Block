@@ -1,7 +1,7 @@
 ﻿Commands();
 string[] array = new string[] {};
 
-string fromUser = ReadInput("Введите нужный массив: ");
+string fromUser = ReadInput("Введите нужный массив: ");       //Определение значений
 switch (fromUser)
 {
     case "1":
@@ -40,6 +40,7 @@ PrintArray(array);
 Console.Write("→ ");
 PrintArray(newArray);
 
+//Отображение массивов
 void Commands()
 {
     Console.WriteLine();
@@ -49,13 +50,15 @@ void Commands()
     Console.WriteLine();
 }
 
-string ReadInput(string msg)
+
+string ReadInput(string msg)   //Ввод номера массива
 
 {
     Console.Write(msg);
     return Console.ReadLine();
 }
 
+//Вывод массина на терминале
 void PrintArray(string[] array)
 {
     Console.Write("[ ");
